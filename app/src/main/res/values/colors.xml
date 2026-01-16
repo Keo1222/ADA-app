@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ada_cyan">#00BCD4</color>
+    <color name="ada_cyan_dark">#00838F</color>
+    <color name="ada_purple">#9C27B0</color>
+    <color name="ada_purple_dark">#6A1B9A</color>
+    <color name="ada_background">#0A0A14</color>
+    <color name="ada_surface">#1A1A2E</color>
+    <color name="ada_surface_variant">#2A2A3E</color>
+    <color name="ada_on_surface">#FFFFFF</color>
+    <color name="ada_on_surface_variant">#B0B0B0</color>
+    <color name="ada_error">#CF6679</color>
+    <color name="ada_success">#4CAF50</color>
+    <color name="ada_warning">#FFC107</color>
+    
+    <!-- Status colors -->
+    <color name="status_connected">#4CAF50</color>
+    <color name="status_disconnected">#F44336</color>
+    <color name="status_connecting">#FFC107</color>
+    
+    <!-- Launcher icon colors -->
+    <color name="ic_launcher_background">#0A0A14</color>
+</resources>

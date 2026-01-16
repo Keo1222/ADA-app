@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ada_background">#0A0A14</color>
+    <color name="ada_cyan">#00BCD4</color>
+    <color name="ada_cyan_dark">#00838F</color>
+    <color name="ada_error">#CF6679</color>
+    <color name="ada_on_surface">#FFFFFF</color>
+    <color name="ada_on_surface_variant">#B0B0B0</color>
+    <color name="ada_purple">#9C27B0</color>
+    <color name="ada_purple_dark">#6A1B9A</color>
+    <color name="ada_success">#4CAF50</color>
+    <color name="ada_surface">#1A1A2E</color>
+    <color name="ada_surface_variant">#2A2A3E</color>
+    <color name="ada_warning">#FFC107</color>
+    <color name="ic_launcher_background">#0A0A14</color>
+    <color name="status_connected">#4CAF50</color>
+    <color name="status_connecting">#FFC107</color>
+    <color name="status_disconnected">#F44336</color>
+    <string name="account_section">Account</string>
+    <string name="app_full_name">Advanced Digital Assistant</string>
+    <string name="app_name">A.D.A.</string>
+    <string name="back_button">Back</string>
+    <string name="biometric_negative_button">Use Passcode</string>
+    <string name="biometric_prompt_description">Authenticate to access A.D.A.</string>
+    <string name="biometric_prompt_subtitle">Use fingerprint or face to login</string>
+    <string name="biometric_prompt_title">Authenticate</string>
+    <string name="capture_face">Capture Face</string>
+    <string name="complete_button">Complete Enrollment</string>
+    <string name="confirm_passcode_hint">Re-enter passcode</string>
+    <string name="confirm_passcode_label">Confirm Passcode</string>
+    <string name="connected">Connected</string>
+    <string name="connecting">Connecting...</string>
+    <string name="create_account">Create Account</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="enrollment_title">Create Account</string>
+    <string name="error_connection">Connection error. Please try again.</string>
+    <string name="error_enrollment_failed">Enrollment failed</string>
+    <string name="error_invalid_credentials">Invalid username or passcode</string>
+    <string name="error_login_failed">Login failed. Check your credentials.</string>
+    <string name="error_server_unavailable">Server unavailable</string>
+    <string name="face_captured">Face Captured</string>
+    <string name="face_instruction">Position your face in the frame</string>
+    <string name="gcm_defaultSenderId" translatable="false">YOUR_PROJECT_NUMBER</string>
+    <string name="google_api_key" translatable="false">YOUR_API_KEY</string>
+    <string name="google_app_id" translatable="false">1:YOUR_PROJECT_NUMBER:android:YOUR_APP_ID</string>
+    <string name="google_crash_reporting_api_key" translatable="false">YOUR_API_KEY</string>
+    <string name="google_storage_bucket" translatable="false">ada-android-app.appspot.com</string>
+    <string name="login_button">Login</string>
+    <string name="login_title">Login to A.D.A.</string>
+    <string name="logout">Logout</string>
+    <string name="next_button">Continue</string>
+    <string name="notification_channel_description">Notifications from A.D.A.</string>
+    <string name="notification_channel_name">A.D.A. Notifications</string>
+    <string name="passcode_hint">Enter passcode</string>
+    <string name="passcode_label">Passcode</string>
+    <string name="project_id" translatable="false">ada-android-app</string>
+    <string name="re_record">Re-record Voice</string>
+    <string name="retake_photo">Retake Photo</string>
+    <string name="server_section">Server</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="step_credentials">Account Setup</string>
+    <string name="step_face">Face Recognition</string>
+    <string name="step_review">Review</string>
+    <string name="step_voice">Voice Profile</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="tab_chat">Chat</string>
+    <string name="tab_ecosystem">Ecosystem</string>
+    <string name="tab_settings">Settings</string>
+    <string name="username_hint">Enter username</string>
+    <string name="username_label">Username</string>
+    <string name="voice_instruction">Say this phrase:</string>
+    <string name="voice_recorded">Voice Recorded</string>
+    <string name="voice_sample_phrase">"Hello A.D.A., this is my voice for authentication."</string>
+    <style name="Theme.ADA" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">@color/ada_cyan</item>
+        <item name="android:colorPrimaryDark">@color/ada_cyan_dark</item>
+        <item name="android:colorAccent">@color/ada_cyan</item>
+        <item name="android:windowBackground">@color/ada_background</item>
+        <item name="android:statusBarColor">@color/ada_background</item>
+        <item name="android:navigationBarColor">@color/ada_background</item>
+    </style>
+</resources>

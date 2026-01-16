@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">A.D.A.</string>
+    <string name="app_full_name">Advanced Digital Assistant</string>
+    
+    <!-- Authentication -->
+    <string name="login_title">Login to A.D.A.</string>
+    <string name="username_label">Username</string>
+    <string name="username_hint">Enter username</string>
+    <string name="passcode_label">Passcode</string>
+    <string name="passcode_hint">Enter passcode</string>
+    <string name="login_button">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="biometric_prompt_title">Authenticate</string>
+    <string name="biometric_prompt_subtitle">Use fingerprint or face to login</string>
+    <string name="biometric_prompt_description">Authenticate to access A.D.A.</string>
+    <string name="biometric_negative_button">Use Passcode</string>
+    
+    <!-- Enrollment -->
+    <string name="enrollment_title">Create Account</string>
+    <string name="step_credentials">Account Setup</string>
+    <string name="step_voice">Voice Profile</string>
+    <string name="step_face">Face Recognition</string>
+    <string name="step_review">Review</string>
+    <string name="confirm_passcode_label">Confirm Passcode</string>
+    <string name="confirm_passcode_hint">Re-enter passcode</string>
+    <string name="next_button">Continue</string>
+    <string name="back_button">Back</string>
+    <string name="complete_button">Complete Enrollment</string>
+    
+    <!-- Voice enrollment -->
+    <string name="voice_instruction">Say this phrase:</string>
+    <string name="voice_sample_phrase">"Hello A.D.A., this is my voice for authentication."</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="voice_recorded">Voice Recorded</string>
+    <string name="re_record">Re-record Voice</string>
+    
+    <!-- Face enrollment -->
+    <string name="face_instruction">Position your face in the frame</string>
+    <string name="capture_face">Capture Face</string>
+    <string name="retake_photo">Retake Photo</string>
+    <string name="face_captured">Face Captured</string>
+    
+    <!-- Main tabs -->
+    <string name="tab_chat">Chat</string>
+    <string name="tab_ecosystem">Ecosystem</string>
+    <string name="tab_settings">Settings</string>
+    
+    <!-- Settings -->
+    <string name="logout">Logout</string>
+    <string name="account_section">Account</string>
+    <string name="server_section">Server</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting...</string>
+    
+    <!-- Errors -->
+    <string name="error_connection">Connection error. Please try again.</string>
+    <string name="error_login_failed">Login failed. Check your credentials.</string>
+    <string name="error_server_unavailable">Server unavailable</string>
+    <string name="error_invalid_credentials">Invalid username or passcode</string>
+    <string name="error_enrollment_failed">Enrollment failed</string>
+    
+    <!-- Notifications -->
+    <string name="notification_channel_name">A.D.A. Notifications</string>
+    <string name="notification_channel_description">Notifications from A.D.A.</string>
+</resources>

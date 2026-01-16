@@ -1,0 +1,983 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:2:1-94:12
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\0a149c623198b0db617ea18dc839dee0\transformed\viewbinding-8.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.biometric:biometric:1.2.0-alpha05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\950ff80d5c28a86e80ffe84b9e91cdf3\transformed\biometric-1.2.0-alpha05\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.camera:camera-video:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2b272c4ff3cc40aa614b05fd72039bb\transformed\camera-video-1.3.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-core:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e5721b34d45a51ed80aeacc2ecd86a06\transformed\camera-core-1.3.4\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-view:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\5fd384c7595be7f476e56f8157439b57\transformed\camera-view-1.3.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-lifecycle:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2965708cf880f8a06fcb03f49e075c7\transformed\camera-lifecycle-1.3.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-camera2:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2ea8d6dbd97b268dce7f70b98e7eccfa\transformed\camera-camera2-1.3.4\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.media:media:1.7.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\86abd2a2e8f2e0922e27f5e1a1572ec8\transformed\media-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\37190166ff3b9e52b245e918c22a1bf3\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4db0d489cc9efb7511f5bb0b3813dd09\transformed\firebase-analytics-ktx-22.0.1\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\36fe7124b83f2c0f8e7992327f87669b\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:17:1-66:12
+MERGED from [com.google.firebase:firebase-analytics:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6abdcb02490078de79f668b6c375bb02\transformed\firebase-analytics-22.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\41bc2a417693c9662cf8efef7dc99da7\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\91fb1a983454be28e632155d838be61f\transformed\play-services-measurement-sdk-22.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\816a86bc0c65666c35bb21f7ac8bbbfd\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\89afb7dcc47b0c1b5f795fc25b5ef3aa\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\a096f53eb5d2123d32a2d7f249e01273\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\bbc5dacb4d6a38dc8d24139175cae16a\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c129184024ab5ee0ff5eec193e1c83f9\transformed\navigation-compose-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6b82d62a1da2405d19d1d88905bb43f2\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\aa1515c37f190be9e157f95d9cbc4661\transformed\activity-1.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2402c25ca9978e417d6dc5c904f1c582\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ec35b2f60d1e93bd18431b15883c5af4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\8ad56595f5ce581cc4b18770545feccc\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d7e42a4f9db93e1a5fd178c0b65cecdf\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f878f6192f8f2fe95f1a93d6f1fd77a1\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\7799ef8f9b608c4caca27ed507513118\transformed\material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ae4552331281241d0686564de93a43fd\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f0281770bb0ac4a70cf0a587250cd347\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b4215f8a641911f48f056c3e75980112\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\bf2ffaec072e5d8599024f5dddf5c64c\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\908fb7916cfdcf80cc7f1494ba060573\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e35cf5cd09b6472be899dc190dbd8cf9\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d5a07f2cdfbc7331e3ec6e9775576abc\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c9f3c3d988efd0d6ac2eb852093411ca\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b95800bfb1a866df6d3e16699165db15\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\127fcedfb17720f968931bec124981ef\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\39decef832bf89aa42f3aa71731330c3\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\63e873af2309d3c17876bfb05839df68\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4354302fe296eb5ee8a4ab0b10a09039\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\05eaa71d66a048aab2c03553e516058f\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7dfb4be3b4b90af9c56bc45cc17f485\transformed\lifecycle-livedata-core-ktx-2.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3bb4b8b6c6b4351551844245f4cba96d\transformed\lifecycle-viewmodel-2.8.0\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\46d17a23f587de083742f039b06b4f98\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\090f60ce46084c47ec1af5d030f868a9\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\bae19086c9dd3a37cf44ec1d9e318ed9\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3700c0fc176241bac7f8cfc635e4fc3f\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b730e41a4680241205f1dd0b10f7c26c\transformed\lifecycle-livedata-2.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4e9317a6f3c83b97dcc7f281bc6e8301\transformed\lifecycle-viewmodel-savedstate-2.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ec4abb9401ac02d3e22071ebd4207a28\transformed\lifecycle-viewmodel-ktx-2.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\590ad51ed7013f3e510fc3947285b032\transformed\lifecycle-livedata-core-2.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6ed730b6a6681a6e8e7bf4aef8204219\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6f8ca226c1eff07321a70cc9b1caf312\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\7cc1d7306bbfe7634bc4f329b9dae849\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\71343b9bfd89ca218c4418d4ee0b1e86\transformed\ui-test-manifest-1.6.7\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\430db12d5f1719ab566560abcd660590\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.9.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\82db607469e25c7e9d26f7c07249adb7\transformed\activity-compose-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\5bceaf55469c1394220ccc501bd56eff\transformed\activity-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\906c2b4f97c5dbbe3ac95a6ecf6bd883\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\23dfb019f30b9140b24c03bcec3376a6\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1dd522b6a843f0bf5d6b02023d3de1f9\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\22e49eadd1f9c2d7d545474b0d2cf072\transformed\datastore-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\417d1c6431e3d73b98c40d9f97d711d5\transformed\datastore-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\cd366d6c1740b5cbe9ded24751a897f6\transformed\datastore-preferences-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\25e7288eb49858bfcd91eb4dfb333953\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2e09bb2d4d494a66f3101fb6798a719\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\578f795383e52ff5eac74d8fbdeb5a64\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\40e4cb695186556049b640ae4696f5af\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d69aedbd2aabf8119f7a21b7152b7344\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b9c2c2d0f5f95e8c3f1312f138f72da2\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\21997ff02573726ebfa0937015491954\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\127f92b51185d356251e559d649c27f7\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\53aecefbdbf194fd7cfc690420a61d6c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f06b73142209c13616f4900c8cae9575\transformed\play-services-measurement-base-22.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6eb90672199c1c28d79af71f554795f9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b65d8512874cab826f635e6caaf2a0f3\transformed\fragment-1.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ca6227c4f073f11d3f2d42675c78d9e1\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\80c2549319791b65bf1456104ec22550\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\32eacd336d285b96f957b597439ead20\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9602ff9ef3c46b8aaae618b1b5070b3a\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e248cdd48ece0677b347cc8512b23246\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b6a58b77bec76ca6338c70e0ff747cdb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\a548433e72c63bd07f84b5524188fcef\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\fce75d9fdd580e12fb20e67e647dc0ce\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f54dbd56a028b58548630372607507a8\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6b3b059b93144792692ffd05bd90a4d5\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] C:\Users\Mr Budgie\.gradle\caches\transforms-3\7fad21c8ebc48a8f30255ae4c6d38a0d\transformed\security-crypto-1.1.0-alpha06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4c027800e28af41b8dd63e7995e180df\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c72a5fd71f42c73fad2b94a9a2586018\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c937f3ac5c28cd6bf1155c531276f2b6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\300b5266dde8672b995ff0c1d5409a6c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Mr Budgie\.gradle\caches\transforms-3\a581e3cbc2d0ac3bb1d7bca5325afe99\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\57fe4d798d20c8c3303cada54cf2d4bd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4e5df7ea044d43215e6d514362c5071f\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c74c3b37bc02422cc64150b0cf8d3067\transformed\transport-api-3.1.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b21908b1edb68bf2a2996770de2b15e7\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\557d5626c9cbde98a7e7c6d34f5254e7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\93058af6e372732d025f95c04a80fda6\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\74fa8792bea6b31145a6da0903e5adb6\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4cf337a352a10e91ff3c9dae2733c7d2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\8f4474841db85ba9b00f8d3b098c5d78\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d69aedbd2aabf8119f7a21b7152b7344\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d69aedbd2aabf8119f7a21b7152b7344\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d69aedbd2aabf8119f7a21b7152b7344\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d69aedbd2aabf8119f7a21b7152b7344\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:10:5-72
+MERGED from [androidx.biometric:biometric:1.2.0-alpha05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\950ff80d5c28a86e80ffe84b9e91cdf3\transformed\biometric-1.2.0-alpha05\AndroidManifest.xml:22:5-72
+MERGED from [androidx.biometric:biometric:1.2.0-alpha05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\950ff80d5c28a86e80ffe84b9e91cdf3\transformed\biometric-1.2.0-alpha05\AndroidManifest.xml:22:5-72
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:10:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:11:5-74
+MERGED from [androidx.biometric:biometric:1.2.0-alpha05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\950ff80d5c28a86e80ffe84b9e91cdf3\transformed\biometric-1.2.0-alpha05\AndroidManifest.xml:25:5-74
+MERGED from [androidx.biometric:biometric:1.2.0-alpha05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\950ff80d5c28a86e80ffe84b9e91cdf3\transformed\biometric-1.2.0-alpha05\AndroidManifest.xml:25:5-74
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:14:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:15:5-85
+	android:required
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:15:58-82
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:15:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:16:5-95
+	android:required
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:16:68-92
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:16:19-67
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:19:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d69aedbd2aabf8119f7a21b7152b7344\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d69aedbd2aabf8119f7a21b7152b7344\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:28:5-77
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:23:5-77
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:28:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:31:5-77
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:31:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_DATA_SYNC
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:32:5-87
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:32:22-84
+uses-permission#android.permission.NEARBY_WIFI_DEVICES
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:35:5-78
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:35:22-75
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:38:5-79
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:38:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:41:5-79
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:41:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:42:5-81
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:42:22-78
+application
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:44:5-92:19
+INJECTED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:44:5-92:19
+MERGED from [androidx.camera:camera-core:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e5721b34d45a51ed80aeacc2ecd86a06\transformed\camera-core-1.3.4\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e5721b34d45a51ed80aeacc2ecd86a06\transformed\camera-core-1.3.4\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2ea8d6dbd97b268dce7f70b98e7eccfa\transformed\camera-camera2-1.3.4\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2ea8d6dbd97b268dce7f70b98e7eccfa\transformed\camera-camera2-1.3.4\AndroidManifest.xml:23:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4db0d489cc9efb7511f5bb0b3813dd09\transformed\firebase-analytics-ktx-22.0.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4db0d489cc9efb7511f5bb0b3813dd09\transformed\firebase-analytics-ktx-22.0.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\36fe7124b83f2c0f8e7992327f87669b\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\36fe7124b83f2c0f8e7992327f87669b\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-analytics:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6abdcb02490078de79f668b6c375bb02\transformed\firebase-analytics-22.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6abdcb02490078de79f668b6c375bb02\transformed\firebase-analytics-22.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\41bc2a417693c9662cf8efef7dc99da7\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\41bc2a417693c9662cf8efef7dc99da7\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\91fb1a983454be28e632155d838be61f\transformed\play-services-measurement-sdk-22.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\91fb1a983454be28e632155d838be61f\transformed\play-services-measurement-sdk-22.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2402c25ca9978e417d6dc5c904f1c582\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2402c25ca9978e417d6dc5c904f1c582\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4354302fe296eb5ee8a4ab0b10a09039\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4354302fe296eb5ee8a4ab0b10a09039\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\05eaa71d66a048aab2c03553e516058f\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\05eaa71d66a048aab2c03553e516058f\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\71343b9bfd89ca218c4418d4ee0b1e86\transformed\ui-test-manifest-1.6.7\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\71343b9bfd89ca218c4418d4ee0b1e86\transformed\ui-test-manifest-1.6.7\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\430db12d5f1719ab566560abcd660590\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\430db12d5f1719ab566560abcd660590\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2e09bb2d4d494a66f3101fb6798a719\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2e09bb2d4d494a66f3101fb6798a719\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\578f795383e52ff5eac74d8fbdeb5a64\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\578f795383e52ff5eac74d8fbdeb5a64\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\40e4cb695186556049b640ae4696f5af\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\40e4cb695186556049b640ae4696f5af\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\21997ff02573726ebfa0937015491954\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\21997ff02573726ebfa0937015491954\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\127f92b51185d356251e559d649c27f7\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\127f92b51185d356251e559d649c27f7\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\53aecefbdbf194fd7cfc690420a61d6c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\53aecefbdbf194fd7cfc690420a61d6c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f06b73142209c13616f4900c8cae9575\transformed\play-services-measurement-base-22.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f06b73142209c13616f4900c8cae9575\transformed\play-services-measurement-base-22.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6eb90672199c1c28d79af71f554795f9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6eb90672199c1c28d79af71f554795f9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c937f3ac5c28cd6bf1155c531276f2b6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c937f3ac5c28cd6bf1155c531276f2b6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\57fe4d798d20c8c3303cada54cf2d4bd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\57fe4d798d20c8c3303cada54cf2d4bd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\557d5626c9cbde98a7e7c6d34f5254e7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\557d5626c9cbde98a7e7c6d34f5254e7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:52:9-35
+	android:label
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:50:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:48:9-54
+	android:roundIcon
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:51:9-54
+	tools:targetApi
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:55:9-29
+	android:icon
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:49:9-43
+	android:allowBackup
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:46:9-35
+	android:theme
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:53:9-41
+	android:networkSecurityConfig
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:54:9-69
+	android:dataExtractionRules
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:47:9-65
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:45:9-39
+activity#com.ada.android.MainActivity
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:58:9-66:20
+	android:exported
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:60:13-36
+	android:theme
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:61:13-45
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:59:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:62:13-65:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:64:17-77
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:64:27-74
+service#com.ada.android.services.ADAFirebaseMessagingService
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:69:9-75:19
+	android:exported
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:70:13-65
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:72:13-74:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:73:17-78
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:73:25-75
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:78:9-80:49
+	android:value
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:80:13-46
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:79:13-89
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:83:9-85:60
+	android:resource
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:85:13-57
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:84:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:88:9-90:50
+	android:resource
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:90:13-47
+	android:name
+		ADDED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml:89:13-84
+uses-sdk
+INJECTED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\0a149c623198b0db617ea18dc839dee0\transformed\viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\0a149c623198b0db617ea18dc839dee0\transformed\viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.biometric:biometric:1.2.0-alpha05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\950ff80d5c28a86e80ffe84b9e91cdf3\transformed\biometric-1.2.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.biometric:biometric:1.2.0-alpha05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\950ff80d5c28a86e80ffe84b9e91cdf3\transformed\biometric-1.2.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-video:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2b272c4ff3cc40aa614b05fd72039bb\transformed\camera-video-1.3.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2b272c4ff3cc40aa614b05fd72039bb\transformed\camera-video-1.3.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-core:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e5721b34d45a51ed80aeacc2ecd86a06\transformed\camera-core-1.3.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e5721b34d45a51ed80aeacc2ecd86a06\transformed\camera-core-1.3.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-view:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\5fd384c7595be7f476e56f8157439b57\transformed\camera-view-1.3.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\5fd384c7595be7f476e56f8157439b57\transformed\camera-view-1.3.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2965708cf880f8a06fcb03f49e075c7\transformed\camera-lifecycle-1.3.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2965708cf880f8a06fcb03f49e075c7\transformed\camera-lifecycle-1.3.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2ea8d6dbd97b268dce7f70b98e7eccfa\transformed\camera-camera2-1.3.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2ea8d6dbd97b268dce7f70b98e7eccfa\transformed\camera-camera2-1.3.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.media:media:1.7.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\86abd2a2e8f2e0922e27f5e1a1572ec8\transformed\media-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.7.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\86abd2a2e8f2e0922e27f5e1a1572ec8\transformed\media-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\37190166ff3b9e52b245e918c22a1bf3\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\37190166ff3b9e52b245e918c22a1bf3\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4db0d489cc9efb7511f5bb0b3813dd09\transformed\firebase-analytics-ktx-22.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4db0d489cc9efb7511f5bb0b3813dd09\transformed\firebase-analytics-ktx-22.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\36fe7124b83f2c0f8e7992327f87669b\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\36fe7124b83f2c0f8e7992327f87669b\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6abdcb02490078de79f668b6c375bb02\transformed\firebase-analytics-22.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6abdcb02490078de79f668b6c375bb02\transformed\firebase-analytics-22.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\41bc2a417693c9662cf8efef7dc99da7\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\41bc2a417693c9662cf8efef7dc99da7\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\91fb1a983454be28e632155d838be61f\transformed\play-services-measurement-sdk-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\91fb1a983454be28e632155d838be61f\transformed\play-services-measurement-sdk-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\816a86bc0c65666c35bb21f7ac8bbbfd\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\816a86bc0c65666c35bb21f7ac8bbbfd\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\89afb7dcc47b0c1b5f795fc25b5ef3aa\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\89afb7dcc47b0c1b5f795fc25b5ef3aa\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\a096f53eb5d2123d32a2d7f249e01273\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\a096f53eb5d2123d32a2d7f249e01273\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\bbc5dacb4d6a38dc8d24139175cae16a\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\bbc5dacb4d6a38dc8d24139175cae16a\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c129184024ab5ee0ff5eec193e1c83f9\transformed\navigation-compose-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c129184024ab5ee0ff5eec193e1c83f9\transformed\navigation-compose-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6b82d62a1da2405d19d1d88905bb43f2\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6b82d62a1da2405d19d1d88905bb43f2\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\aa1515c37f190be9e157f95d9cbc4661\transformed\activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\aa1515c37f190be9e157f95d9cbc4661\transformed\activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2402c25ca9978e417d6dc5c904f1c582\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2402c25ca9978e417d6dc5c904f1c582\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ec35b2f60d1e93bd18431b15883c5af4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ec35b2f60d1e93bd18431b15883c5af4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\8ad56595f5ce581cc4b18770545feccc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\8ad56595f5ce581cc4b18770545feccc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d7e42a4f9db93e1a5fd178c0b65cecdf\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d7e42a4f9db93e1a5fd178c0b65cecdf\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f878f6192f8f2fe95f1a93d6f1fd77a1\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f878f6192f8f2fe95f1a93d6f1fd77a1\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\7799ef8f9b608c4caca27ed507513118\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\7799ef8f9b608c4caca27ed507513118\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ae4552331281241d0686564de93a43fd\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ae4552331281241d0686564de93a43fd\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f0281770bb0ac4a70cf0a587250cd347\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f0281770bb0ac4a70cf0a587250cd347\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b4215f8a641911f48f056c3e75980112\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b4215f8a641911f48f056c3e75980112\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\bf2ffaec072e5d8599024f5dddf5c64c\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\bf2ffaec072e5d8599024f5dddf5c64c\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\908fb7916cfdcf80cc7f1494ba060573\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\908fb7916cfdcf80cc7f1494ba060573\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e35cf5cd09b6472be899dc190dbd8cf9\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e35cf5cd09b6472be899dc190dbd8cf9\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d5a07f2cdfbc7331e3ec6e9775576abc\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d5a07f2cdfbc7331e3ec6e9775576abc\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c9f3c3d988efd0d6ac2eb852093411ca\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c9f3c3d988efd0d6ac2eb852093411ca\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b95800bfb1a866df6d3e16699165db15\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b95800bfb1a866df6d3e16699165db15\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\127fcedfb17720f968931bec124981ef\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\127fcedfb17720f968931bec124981ef\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\39decef832bf89aa42f3aa71731330c3\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\39decef832bf89aa42f3aa71731330c3\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\63e873af2309d3c17876bfb05839df68\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\63e873af2309d3c17876bfb05839df68\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4354302fe296eb5ee8a4ab0b10a09039\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4354302fe296eb5ee8a4ab0b10a09039\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\05eaa71d66a048aab2c03553e516058f\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\05eaa71d66a048aab2c03553e516058f\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7dfb4be3b4b90af9c56bc45cc17f485\transformed\lifecycle-livedata-core-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7dfb4be3b4b90af9c56bc45cc17f485\transformed\lifecycle-livedata-core-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3bb4b8b6c6b4351551844245f4cba96d\transformed\lifecycle-viewmodel-2.8.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3bb4b8b6c6b4351551844245f4cba96d\transformed\lifecycle-viewmodel-2.8.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\46d17a23f587de083742f039b06b4f98\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\46d17a23f587de083742f039b06b4f98\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\090f60ce46084c47ec1af5d030f868a9\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\090f60ce46084c47ec1af5d030f868a9\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\bae19086c9dd3a37cf44ec1d9e318ed9\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\bae19086c9dd3a37cf44ec1d9e318ed9\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3700c0fc176241bac7f8cfc635e4fc3f\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3700c0fc176241bac7f8cfc635e4fc3f\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b730e41a4680241205f1dd0b10f7c26c\transformed\lifecycle-livedata-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b730e41a4680241205f1dd0b10f7c26c\transformed\lifecycle-livedata-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4e9317a6f3c83b97dcc7f281bc6e8301\transformed\lifecycle-viewmodel-savedstate-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4e9317a6f3c83b97dcc7f281bc6e8301\transformed\lifecycle-viewmodel-savedstate-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ec4abb9401ac02d3e22071ebd4207a28\transformed\lifecycle-viewmodel-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ec4abb9401ac02d3e22071ebd4207a28\transformed\lifecycle-viewmodel-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\590ad51ed7013f3e510fc3947285b032\transformed\lifecycle-livedata-core-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\590ad51ed7013f3e510fc3947285b032\transformed\lifecycle-livedata-core-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6ed730b6a6681a6e8e7bf4aef8204219\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6ed730b6a6681a6e8e7bf4aef8204219\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6f8ca226c1eff07321a70cc9b1caf312\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6f8ca226c1eff07321a70cc9b1caf312\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\7cc1d7306bbfe7634bc4f329b9dae849\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\7cc1d7306bbfe7634bc4f329b9dae849\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\71343b9bfd89ca218c4418d4ee0b1e86\transformed\ui-test-manifest-1.6.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\71343b9bfd89ca218c4418d4ee0b1e86\transformed\ui-test-manifest-1.6.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\430db12d5f1719ab566560abcd660590\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\430db12d5f1719ab566560abcd660590\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\82db607469e25c7e9d26f7c07249adb7\transformed\activity-compose-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\82db607469e25c7e9d26f7c07249adb7\transformed\activity-compose-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\5bceaf55469c1394220ccc501bd56eff\transformed\activity-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\5bceaf55469c1394220ccc501bd56eff\transformed\activity-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\906c2b4f97c5dbbe3ac95a6ecf6bd883\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\906c2b4f97c5dbbe3ac95a6ecf6bd883\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\23dfb019f30b9140b24c03bcec3376a6\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\23dfb019f30b9140b24c03bcec3376a6\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1dd522b6a843f0bf5d6b02023d3de1f9\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1dd522b6a843f0bf5d6b02023d3de1f9\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\22e49eadd1f9c2d7d545474b0d2cf072\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\22e49eadd1f9c2d7d545474b0d2cf072\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\417d1c6431e3d73b98c40d9f97d711d5\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\417d1c6431e3d73b98c40d9f97d711d5\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\cd366d6c1740b5cbe9ded24751a897f6\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\cd366d6c1740b5cbe9ded24751a897f6\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\25e7288eb49858bfcd91eb4dfb333953\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\25e7288eb49858bfcd91eb4dfb333953\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2e09bb2d4d494a66f3101fb6798a719\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2e09bb2d4d494a66f3101fb6798a719\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\578f795383e52ff5eac74d8fbdeb5a64\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\578f795383e52ff5eac74d8fbdeb5a64\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\40e4cb695186556049b640ae4696f5af\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\40e4cb695186556049b640ae4696f5af\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d69aedbd2aabf8119f7a21b7152b7344\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d69aedbd2aabf8119f7a21b7152b7344\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b9c2c2d0f5f95e8c3f1312f138f72da2\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b9c2c2d0f5f95e8c3f1312f138f72da2\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\21997ff02573726ebfa0937015491954\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\21997ff02573726ebfa0937015491954\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\127f92b51185d356251e559d649c27f7\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\127f92b51185d356251e559d649c27f7\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\53aecefbdbf194fd7cfc690420a61d6c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\53aecefbdbf194fd7cfc690420a61d6c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f06b73142209c13616f4900c8cae9575\transformed\play-services-measurement-base-22.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f06b73142209c13616f4900c8cae9575\transformed\play-services-measurement-base-22.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6eb90672199c1c28d79af71f554795f9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6eb90672199c1c28d79af71f554795f9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b65d8512874cab826f635e6caaf2a0f3\transformed\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b65d8512874cab826f635e6caaf2a0f3\transformed\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ca6227c4f073f11d3f2d42675c78d9e1\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ca6227c4f073f11d3f2d42675c78d9e1\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\80c2549319791b65bf1456104ec22550\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\80c2549319791b65bf1456104ec22550\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\32eacd336d285b96f957b597439ead20\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\32eacd336d285b96f957b597439ead20\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9602ff9ef3c46b8aaae618b1b5070b3a\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9602ff9ef3c46b8aaae618b1b5070b3a\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e248cdd48ece0677b347cc8512b23246\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e248cdd48ece0677b347cc8512b23246\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b6a58b77bec76ca6338c70e0ff747cdb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b6a58b77bec76ca6338c70e0ff747cdb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\a548433e72c63bd07f84b5524188fcef\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\a548433e72c63bd07f84b5524188fcef\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\fce75d9fdd580e12fb20e67e647dc0ce\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\fce75d9fdd580e12fb20e67e647dc0ce\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f54dbd56a028b58548630372607507a8\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f54dbd56a028b58548630372607507a8\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6b3b059b93144792692ffd05bd90a4d5\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6b3b059b93144792692ffd05bd90a4d5\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] C:\Users\Mr Budgie\.gradle\caches\transforms-3\7fad21c8ebc48a8f30255ae4c6d38a0d\transformed\security-crypto-1.1.0-alpha06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] C:\Users\Mr Budgie\.gradle\caches\transforms-3\7fad21c8ebc48a8f30255ae4c6d38a0d\transformed\security-crypto-1.1.0-alpha06\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4c027800e28af41b8dd63e7995e180df\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4c027800e28af41b8dd63e7995e180df\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c72a5fd71f42c73fad2b94a9a2586018\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c72a5fd71f42c73fad2b94a9a2586018\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c937f3ac5c28cd6bf1155c531276f2b6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c937f3ac5c28cd6bf1155c531276f2b6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\300b5266dde8672b995ff0c1d5409a6c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\300b5266dde8672b995ff0c1d5409a6c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Mr Budgie\.gradle\caches\transforms-3\a581e3cbc2d0ac3bb1d7bca5325afe99\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Mr Budgie\.gradle\caches\transforms-3\a581e3cbc2d0ac3bb1d7bca5325afe99\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\57fe4d798d20c8c3303cada54cf2d4bd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\57fe4d798d20c8c3303cada54cf2d4bd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4e5df7ea044d43215e6d514362c5071f\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4e5df7ea044d43215e6d514362c5071f\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c74c3b37bc02422cc64150b0cf8d3067\transformed\transport-api-3.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\c74c3b37bc02422cc64150b0cf8d3067\transformed\transport-api-3.1.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b21908b1edb68bf2a2996770de2b15e7\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b21908b1edb68bf2a2996770de2b15e7\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\557d5626c9cbde98a7e7c6d34f5254e7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\557d5626c9cbde98a7e7c6d34f5254e7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\93058af6e372732d025f95c04a80fda6\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\93058af6e372732d025f95c04a80fda6\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\74fa8792bea6b31145a6da0903e5adb6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\74fa8792bea6b31145a6da0903e5adb6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4cf337a352a10e91ff3c9dae2733c7d2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4cf337a352a10e91ff3c9dae2733c7d2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\8f4474841db85ba9b00f8d3b098c5d78\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\8f4474841db85ba9b00f8d3b098c5d78\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mr Budgie\Documents\GitHub-Repo\ada_app\android_app\app\src\main\AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-core:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e5721b34d45a51ed80aeacc2ecd86a06\transformed\camera-core-1.3.4\AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-camera2:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2ea8d6dbd97b268dce7f70b98e7eccfa\transformed\camera-camera2-1.3.4\AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-camera2:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2ea8d6dbd97b268dce7f70b98e7eccfa\transformed\camera-camera2-1.3.4\AndroidManifest.xml:24:9-33:19
+	android:enabled
+		ADDED from [androidx.camera:camera-core:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e5721b34d45a51ed80aeacc2ecd86a06\transformed\camera-core-1.3.4\AndroidManifest.xml:31:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-core:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e5721b34d45a51ed80aeacc2ecd86a06\transformed\camera-core-1.3.4\AndroidManifest.xml:32:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-core:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e5721b34d45a51ed80aeacc2ecd86a06\transformed\camera-core-1.3.4\AndroidManifest.xml:33:13-75
+	android:name
+		ADDED from [androidx.camera:camera-core:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e5721b34d45a51ed80aeacc2ecd86a06\transformed\camera-core-1.3.4\AndroidManifest.xml:30:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2ea8d6dbd97b268dce7f70b98e7eccfa\transformed\camera-camera2-1.3.4\AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2ea8d6dbd97b268dce7f70b98e7eccfa\transformed\camera-camera2-1.3.4\AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.3.4] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2ea8d6dbd97b268dce7f70b98e7eccfa\transformed\camera-camera2-1.3.4\AndroidManifest.xml:31:17-103
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-analytics-ktx:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4db0d489cc9efb7511f5bb0b3813dd09\transformed\firebase-analytics-ktx-22.0.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\36fe7124b83f2c0f8e7992327f87669b\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:23:9-29:19
+MERGED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\36fe7124b83f2c0f8e7992327f87669b\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:23:9-29:19
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\41bc2a417693c9662cf8efef7dc99da7\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\41bc2a417693c9662cf8efef7dc99da7\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\57fe4d798d20c8c3303cada54cf2d4bd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\57fe4d798d20c8c3303cada54cf2d4bd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:22:9-28:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-ktx:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4db0d489cc9efb7511f5bb0b3813dd09\transformed\firebase-analytics-ktx-22.0.1\AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4db0d489cc9efb7511f5bb0b3813dd09\transformed\firebase-analytics-ktx-22.0.1\AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsLegacyRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4db0d489cc9efb7511f5bb0b3813dd09\transformed\firebase-analytics-ktx-22.0.1\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4db0d489cc9efb7511f5bb0b3813dd09\transformed\firebase-analytics-ktx-22.0.1\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4db0d489cc9efb7511f5bb0b3813dd09\transformed\firebase-analytics-ktx-22.0.1\AndroidManifest.xml:12:17-129
+meta-data#com.google.firebase.components:com.google.firebase.messaging.ktx.FirebaseMessagingLegacyRegistrar
+ADDED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\36fe7124b83f2c0f8e7992327f87669b\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:26:13-28:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\36fe7124b83f2c0f8e7992327f87669b\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:28:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging-ktx:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\36fe7124b83f2c0f8e7992327f87669b\transformed\firebase-messaging-ktx-24.0.0\AndroidManifest.xml:27:17-129
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d69aedbd2aabf8119f7a21b7152b7344\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d69aedbd2aabf8119f7a21b7152b7344\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:26:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:29:9-40:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:31:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:33:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:34:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:34:25-78
+meta-data#com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:38:17-92
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:46:9-53:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:49:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:47:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:57:13-59:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:59:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:58:17-122
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:60:13-62:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:62:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\faf7ce73fa91b4051f5058eb2467325b\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:61:17-119
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\53aecefbdbf194fd7cfc690420a61d6c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\53aecefbdbf194fd7cfc690420a61d6c\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\3e6f9860d80a706bbe2afdf26cecc1c8\transformed\play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:27:22-79
+property
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:31:13-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\61b724f7bdccb3f0946ffd2f5e9700d4\transformed\play-services-measurement-api-22.0.1\AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4333998aea444c01902f6aebfb670785\transformed\firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\41bc2a417693c9662cf8efef7dc99da7\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\41bc2a417693c9662cf8efef7dc99da7\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\41bc2a417693c9662cf8efef7dc99da7\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\9ae7d52d009c65adb3a2f08f2a792b37\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\2698c704daec0112d19ac7369f4dcf94\transformed\play-services-measurement-impl-22.0.1\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\f7cab674c2600e930b3004d76ccd7f18\transformed\play-services-measurement-22.0.1\AndroidManifest.xml:40:13-87
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4354302fe296eb5ee8a4ab0b10a09039\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\05eaa71d66a048aab2c03553e516058f\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\05eaa71d66a048aab2c03553e516058f\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\557d5626c9cbde98a7e7c6d34f5254e7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\557d5626c9cbde98a7e7c6d34f5254e7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4354302fe296eb5ee8a4ab0b10a09039\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4354302fe296eb5ee8a4ab0b10a09039\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4354302fe296eb5ee8a4ab0b10a09039\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4354302fe296eb5ee8a4ab0b10a09039\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4354302fe296eb5ee8a4ab0b10a09039\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4354302fe296eb5ee8a4ab0b10a09039\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\4354302fe296eb5ee8a4ab0b10a09039\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\05eaa71d66a048aab2c03553e516058f\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\05eaa71d66a048aab2c03553e516058f\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\05eaa71d66a048aab2c03553e516058f\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\71343b9bfd89ca218c4418d4ee0b1e86\transformed\ui-test-manifest-1.6.7\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\71343b9bfd89ca218c4418d4ee0b1e86\transformed\ui-test-manifest-1.6.7\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\71343b9bfd89ca218c4418d4ee0b1e86\transformed\ui-test-manifest-1.6.7\AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\430db12d5f1719ab566560abcd660590\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\430db12d5f1719ab566560abcd660590\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.7] C:\Users\Mr Budgie\.gradle\caches\transforms-3\430db12d5f1719ab566560abcd660590\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2e09bb2d4d494a66f3101fb6798a719\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2e09bb2d4d494a66f3101fb6798a719\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Mr Budgie\.gradle\caches\transforms-3\d2e09bb2d4d494a66f3101fb6798a719\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\40e4cb695186556049b640ae4696f5af\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\40e4cb695186556049b640ae4696f5af\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\40e4cb695186556049b640ae4696f5af\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\40e4cb695186556049b640ae4696f5af\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6eb90672199c1c28d79af71f554795f9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6eb90672199c1c28d79af71f554795f9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\6eb90672199c1c28d79af71f554795f9\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.ada.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.ada.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\e0ecdc62445125edc9d5c5f491426c56\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Mr Budgie\.gradle\caches\transforms-3\ad5d874714b5603dbc7eb846a58a363b\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\57fe4d798d20c8c3303cada54cf2d4bd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\57fe4d798d20c8c3303cada54cf2d4bd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Mr Budgie\.gradle\caches\transforms-3\57fe4d798d20c8c3303cada54cf2d4bd\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:26:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\1a9d134d433b0b052fb5b8abe9b0a0cc\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Mr Budgie\.gradle\caches\transforms-3\b809c358ac4a3dd2f56e56c04647a695\transformed\transport-runtime-3.1.9\AndroidManifest.xml:33:13-132

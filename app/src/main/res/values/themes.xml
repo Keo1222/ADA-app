@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ADA" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">@color/ada_cyan</item>
+        <item name="android:colorPrimaryDark">@color/ada_cyan_dark</item>
+        <item name="android:colorAccent">@color/ada_cyan</item>
+        <item name="android:windowBackground">@color/ada_background</item>
+        <item name="android:statusBarColor">@color/ada_background</item>
+        <item name="android:navigationBarColor">@color/ada_background</item>
+    </style>
+</resources>
