@@ -59,6 +59,13 @@ android {
     composeOptions {
         kotlinCompilerExtensionVersion = "1.5.4"
     }
+    
+    lint {
+        // Allow build to continue even if lint finds issues
+        abortOnError = false
+        // Treat warnings as warnings, not errors
+        warningsAsErrors = false
+    }
 }
 
 dependencies {

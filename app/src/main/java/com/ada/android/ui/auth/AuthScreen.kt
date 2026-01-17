@@ -23,7 +23,7 @@ import androidx.compose.ui.text.input.VisualTransformation
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import androidx.fragment.app.FragmentActivity
+import androidx.activity.ComponentActivity
 import com.ada.android.auth.ADAAuthManager
 import com.ada.android.auth.EnrollmentData
 import kotlinx.coroutines.launch
@@ -35,7 +35,7 @@ import kotlinx.coroutines.launch
 @Composable
 fun AuthScreen(
     authManager: ADAAuthManager,
-    activity: FragmentActivity
+    activity: ComponentActivity
 ) {
     var showEnrollment by remember { mutableStateOf(false) }
     
@@ -151,7 +151,7 @@ private fun LogoSection() {
 @Composable
 private fun LoginForm(
     authManager: ADAAuthManager,
-    activity: FragmentActivity,
+    activity: ComponentActivity,
     onCreateAccount: () -> Unit
 ) {
     var username by remember { mutableStateOf("") }
