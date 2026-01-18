@@ -5,6 +5,7 @@ import android.os.Build
 import androidx.biometric.BiometricManager
 import androidx.biometric.BiometricPrompt
 import androidx.core.content.ContextCompat
+import androidx.activity.ComponentActivity
 import androidx.fragment.app.FragmentActivity
 import com.ada.android.ADAApplication
 import com.ada.android.BuildConfig
@@ -69,7 +70,7 @@ class ADAAuthManager(
      * Authenticate using biometrics (fingerprint or face)
      */
     fun authenticateWithBiometrics(
-        activity: FragmentActivity,
+        activity: ComponentActivity,
         onSuccess: () -> Unit,
         onError: (String) -> Unit
     ) {
@@ -101,7 +102,8 @@ class ADAAuthManager(
             }
         }
         
-        val biometricPrompt = BiometricPrompt(activity, executor, callback)
+        // Cast ComponentActivity to FragmentActivity for BiometricPrompt
+        val biometricPrompt = BiometricPrompt(activity as FragmentActivity, executor, callback)
         
         val promptInfo = BiometricPrompt.PromptInfo.Builder()
             .setTitle(context.getString(R.string.biometric_prompt_title))

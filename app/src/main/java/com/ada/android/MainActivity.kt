@@ -13,7 +13,7 @@ import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Modifier
 import androidx.core.content.ContextCompat
-import androidx.fragment.app.FragmentActivity
+import androidx.activity.ComponentActivity
 import com.ada.android.auth.ADAAuthManager
 import com.ada.android.ui.auth.AuthScreen
 import com.ada.android.ui.main.MainScreen
@@ -25,7 +25,7 @@ import com.ada.android.ui.theme.ADATheme
  * 
  * Compatible with Android 13+ (API 33+)
  */
-class MainActivity : FragmentActivity() {
+class MainActivity : ComponentActivity() {
     
     private lateinit var authManager: ADAAuthManager
     
