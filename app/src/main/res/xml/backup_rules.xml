@@ -2,5 +2,5 @@
 <full-backup-content>
     <include domain="sharedpref" path="." />
     <exclude domain="sharedpref" path="ada_auth_prefs.xml" />
-    <exclude domain="no_backup" path="." />
+    <!-- Files in no_backup directory are automatically excluded from backups by Android -->
 </full-backup-content>
