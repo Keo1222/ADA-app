@@ -1,0 +1,130 @@
+
+build/
+app/build/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# ============================================================================
+# GRADLE BUILD CACHE & TEMP FILES (DO NOT PUSH - Local build cache)
+# ============================================================================
+# Gradle generates these files during builds - they're user-specific
+.gradle/
+*.iml
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Note: gradle-wrapper.jar and gradle-wrapper.properties SHOULD be pushed
+# (they're in the exception list above with !)
+
+# ============================================================================
+# LOCAL CONFIGURATION FILES (DO NOT PUSH - Contains local paths/secrets)
+# ============================================================================
+# This file contains local SDK paths and machine-specific settings
+local.properties
+
+# ============================================================================
+# ANDROID STUDIO / INTELLIJ IDEA FILES (OPTIONAL - Usually don't push)
+# ============================================================================
+# These are IDE settings - team can have different preferences
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# Note: Some teams DO push .idea files for consistency
+# If your team wants to share IDE settings, comment out the .idea/ line above
+
+# ============================================================================
+# OPERATING SYSTEM FILES (DO NOT PUSH - OS-generated)
+# ============================================================================
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+Icon
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ============================================================================
+# LOG FILES & TEMP FILES (DO NOT PUSH - Temporary)
+# ============================================================================
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# ============================================================================
+# SIGNING KEYS & SECRETS (DO NOT PUSH - Contains sensitive data)
+# ============================================================================
+# NEVER push signing keys or API keys to GitHub!
+*.keystore
+*.jks
+*.key
+*.p12
+*.p8
+*.pem
+*.cert
+*.p7b
+*.p7s
+secrets.properties
+google-services.json.local
+google-services.json.backup
+
+# Note: google-services.json (without .local or .backup) SHOULD be pushed
+# if it doesn't contain sensitive API keys
+
+# ============================================================================
+# COVERAGE REPORTS & TEST RESULTS (DO NOT PUSH - Generated files)
+# ============================================================================
+*.coverage
+.nyc_output
+coverage/
+test-results/
+*.exec
+.jacoco/
+
+# ============================================================================
+# PACKAGE FILES (DO NOT PUSH - Generated packages)
+# ============================================================================
+*.ap_
+*.aab
+*.apk
+*.aar
+
+# ============================================================================
+# CRASH REPORTS (DO NOT PUSH - Local crash logs)
+# ============================================================================
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# ============================================================================
+# PROFILER OUTPUTS (DO NOT PUSH - Local profiling data)
+# ============================================================================
+*.hprof
+captures/
